@@ -22,5 +22,25 @@
     "typeCheckHostBindings": true,
     "strictTemplates": true
   },
-  "files": []
+  "files": [],
+  "references": [
+    {
+      "path": "./projects/profile-card/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/profile-card/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/counter/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/counter/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/simple-todo/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/simple-todo/tsconfig.spec.json"
+    }
+  ]
 }
