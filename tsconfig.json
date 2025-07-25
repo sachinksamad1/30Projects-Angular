@@ -41,6 +41,48 @@
     },
     {
       "path": "./projects/simple-todo/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/stopwatch/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/stopwatch/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/guess-the-number/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/guess-the-number/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/tic-tac-toe/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/tic-tac-toe/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/dynamic-filter-list/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/dynamic-filter-list/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/rock-paper-scissors/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/rock-paper-scissors/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/faq-accordion/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/faq-accordion/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/joke-generator/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/joke-generator/tsconfig.spec.json"
     }
   ]
 }
