@@ -83,6 +83,18 @@
     },
     {
       "path": "./projects/joke-generator/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/infinite-scroll/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/infinite-scroll/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/clock/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/clock/tsconfig.spec.json"
     }
   ]
 }
