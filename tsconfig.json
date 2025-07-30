@@ -95,6 +95,48 @@
     },
     {
       "path": "./projects/clock/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/feedback-form/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/feedback-form/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/contact-form/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/contact-form/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/custom-directive/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/custom-directive/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/calculator/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/calculator/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/currency-converter/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/currency-converter/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/weather/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/weather/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/emoji-search/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/emoji-search/tsconfig.spec.json"
     }
   ]
 }
