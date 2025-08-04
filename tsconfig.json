@@ -137,6 +137,18 @@
     },
     {
       "path": "./projects/emoji-search/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/crypto-charts/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/crypto-charts/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/calender/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/calender/tsconfig.spec.json"
     }
   ]
 }
