@@ -149,6 +149,30 @@
     },
     {
       "path": "./projects/calender/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/checkers/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/checkers/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/password-security/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/password-security/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/minesweeper/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/minesweeper/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/advanced-todo/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/advanced-todo/tsconfig.spec.json"
     }
   ]
 }
