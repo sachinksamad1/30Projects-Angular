@@ -173,6 +173,12 @@
     },
     {
       "path": "./projects/advanced-todo/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/user-management-app/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/user-management-app/tsconfig.spec.json"
     }
   ]
 }
